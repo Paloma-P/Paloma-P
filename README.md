@@ -7,7 +7,7 @@ WHAT I DO
 🌱Technical content creator with HyperverseDAO
 
 FUNFACTS ABOUT ME
-💻 I'm an active part of DeveloperDAO, Womenbuildweb3, HyperverseDAO, Graphrica
+- 💻 I'm an active part of DeveloperDAO, Womenbuildweb3, HyperverseDAO, Graphrica
 ⭐ Favorite languages: Solidity and Javascript(Yes Javascript)
 ✍🏻 I write articles and turorials on Hashnode
 👯 I love meeting new people and having conversations on important topics
